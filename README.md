@@ -2,7 +2,7 @@
 
 #### 🔭 Atualmente trabalho na Ábaco Tecnologia LTDA trabalhando no time de desenvolvimento Web utilizando GeneXus(Java),       HTML, Jenkins e Oracle
 #### 🌱 No momento estou construindo aplicações utilizando React, NodeJs, HTML e CSS
-#### 💬 Pode me perguntar sobre qualquer coisa, garanto que irei pesquisar antes para dar a melhor resposta
+#### 💬 Pode me perguntar sobre qualquer assunto, caso eu não possua saiba, garanto que irei pesquisar para dar a melhor resposta
 #### 📫 Você pode me encontrar no <a href="www.linkedin.com/in/jcoutinhotoledo">Linkedin</a> ou mandar um email para <a href="mailto: jcoutinho@gmail.com">jcoutinho@gmail.com</a>
 #### ⚡ Fun fact: Tento ao maximo contribuir para a comunidade de Path of Exile
 
