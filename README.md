@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo João Pedro. Alguns amigos me chamam de Pan
 
-#### 🔭 Atualmente trabalho na Ábaco Tecnologia LTDA trabalhando no time de desenvolvimento Web utilizando GeneXus(Java),       HTML, Jenkins e Oracle
+#### 🔭 Atualmente trabalho na StoneCo como Front-End
 #### 🌱 No momento estou construindo aplicações utilizando React, NodeJs, HTML e CSS
 #### 💬 Pode me perguntar sobre qualquer assunto, caso eu não possua saiba, garanto que irei pesquisar para dar a melhor resposta
 #### 📫 Você pode me encontrar no <a href="http://www.linkedin.com/in/jcoutinhotoledo">Linkedin</a> ou mandar um email para <a href="mailto: jcoutinho@gmail.com">jcoutinho@gmail.com</a>
