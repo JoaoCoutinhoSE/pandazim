@@ -8,3 +8,7 @@
 
 # 📚 Metas para 2021 
 #### 🌱 Permanecer estudando a Stack React, NodeJs, HTML e CSS, Contruindo projetos responsivos para usar como portifólio.
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaZIM&layout=compact&langs_count=7&theme=dracula"/>
+</div>
