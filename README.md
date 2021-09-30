@@ -1,14 +1,9 @@
-# 👋 Olá, me chamo João Pedro. Alguns amigos me chamam de Pan
+# 👋 Name's Coutinho.
 
-#### 🔭 Atualmente trabalho na StoneCo como Front-End
-#### 🌱 No momento estou construindo aplicações utilizando React, NodeJs, HTML e CSS
-#### 💬 Pode me perguntar sobre qualquer assunto, caso eu não possua saiba, garanto que irei pesquisar para dar a melhor resposta
-#### 📫 Você pode me encontrar no <a href="http://www.linkedin.com/in/jcoutinhotoledo">Linkedin</a> ou mandar um email para <a href="mailto: jcoutinho@gmail.com">jcoutinho@gmail.com</a>
-#### ⚡ Fun fact: Tento ao maximo contribuir para a comunidade de Path of Exile
+#### 🔭 Working at Stone Co. using React Hooks to maintain a fintech application and implement features
+#### 🌱 Heavily interested in Mobile developtment
+#### ⚡ Fun fact: Went all in into pro League of Legends in 2010. As you can see now i'm a developer
 
-# 📚 Metas para 2021 
-#### 🌱 Permanecer estudando a Stack React, NodeJs, HTML e CSS, Contruindo projetos responsivos para usar como portifólio.
-
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaZIM&layout=compact&langs_count=7&theme=dracula"/>
 </div>
